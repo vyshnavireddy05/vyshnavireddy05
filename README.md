@@ -81,16 +81,6 @@ Data Structures & Algorithms · OOP · DBMS · Operating Systems · Software Eng
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced Java and Spring Boot
-- Data Structures & Algorithms
-- System Design Fundamentals
-- Data Science and Machine Learning
-- Cloud Technologies and AI-powered application development
-
----
-
 ## 🔗 Connect With Me
 
 - **GitHub:** https://github.com/vyshnavireddy05
